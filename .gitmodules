@@ -1,0 +1,6 @@
+[submodule "AndroidAgentComponent/agent-android"]
+	path = AndroidAgentComponent/agent-android
+	url = https://github.com/zrk494/AgentComponentAndroid
+[submodule "AndroidUI"]
+	path = AndroidUI
+	url = https://github.com/zrk494/AndroidUI.git
